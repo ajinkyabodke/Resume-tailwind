@@ -622,16 +622,6 @@ section {
   line-height: 1.75rem;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
 .font-medium {
   font-weight: 500;
 }
@@ -656,10 +646,6 @@ section {
 
 .no-underline {
   text-decoration-line: none;
-}
-
-.underline-offset-2 {
-  text-underline-offset: 2px;
 }
 
 .hover\:underline:hover {
