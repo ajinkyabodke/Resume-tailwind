@@ -1,2 +1,2 @@
 # Resume-tailwind
-https://resume-tailwind.onrender.com/
+https://ajinkyabodke.github.io/Resume-tailwind/src/

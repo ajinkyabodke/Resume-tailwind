@@ -629,23 +629,9 @@ section {
   --tw-backdrop-sepia:  ;
 }
 
-.m-10 {
-  margin: 2.5rem;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.my-0 {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
-.my-1 {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
 }
 
 .mr-5 {
@@ -672,19 +658,6 @@ section {
   gap: 0.25rem;
 }
 
-.border {
-  border-width: 1px;
-}
-
-.border-2 {
-  border-width: 2px;
-}
-
-.border-black {
-  --tw-border-opacity: 1;
-  border-color: rgb(0 0 0 / var(--tw-border-opacity));
-}
-
 .bg-blue-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(219 234 254 / var(--tw-bg-opacity));
@@ -695,16 +668,12 @@ section {
   background-color: rgb(241 245 249 / var(--tw-bg-opacity));
 }
 
-.p-10 {
-  padding: 2.5rem;
-}
-
-.p-5 {
-  padding: 1.25rem;
-}
-
 .p-1 {
   padding: 0.25rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
 }
 
 .pb-1 {
@@ -719,36 +688,13 @@ section {
   text-align: center;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.font-medium {
-  font-weight: 500;
-}
-
 .tracking-wide {
   letter-spacing: 0.025em;
-}
-
-.text-blue-800 {
-  --tw-text-opacity: 1;
-  color: rgb(30 64 175 / var(--tw-text-opacity));
 }
 
 .text-blue-900 {
   --tw-text-opacity: 1;
   color: rgb(30 58 138 / var(--tw-text-opacity));
-}
-
-.underline {
-  text-decoration-line: underline;
 }
 
 .no-underline {
@@ -766,5 +712,9 @@ section {
 
   .md\:p-10 {
     padding: 2.5rem;
+  }
+
+  .md\:p-1 {
+    padding: 0.25rem;
   }
 }
